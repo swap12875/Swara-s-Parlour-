@@ -1,2 +1,2 @@
-# Swara-s-Parlour-
+# Swara-s-Parlour
 This is test Website for Swara's Parlour
